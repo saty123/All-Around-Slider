@@ -8,3 +8,5 @@ INSTRUCTION to use this module:
 3) Now Create a view that should have the Title, Image and Body fields.
 4) Choose the formate for All Around Slider from formattor.
 5) Now you have done.
+
+There are some changes done by satyam
